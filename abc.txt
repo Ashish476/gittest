@@ -1,1 +1,2 @@
 hi git  just now i had done changes
+done at terminal
